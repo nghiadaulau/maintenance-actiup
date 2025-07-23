@@ -1,5 +1,4 @@
-   // maintain-config.js
-   window.maintainTime = {
-     vi: "03:00 15.07.2025",
-     en: "03:00 15.07.2025"
-   };
+// maintain-config.js
+window.maintainTime = {
+  utc: "2025-07-15T03:00:00Z"
+};
